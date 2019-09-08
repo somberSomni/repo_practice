@@ -1,5 +1,7 @@
 {
-    "workers" : {
-        
-    }
+    "workers" : [
+        {
+            "name": "Xavier Palin"
+        }
+     ]
 }
